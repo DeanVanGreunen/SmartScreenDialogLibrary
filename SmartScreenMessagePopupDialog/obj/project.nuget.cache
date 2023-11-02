@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "KephvS36TYl2xgHQ4gcwxb2ZfrotiNIlLhGVt/yb0xUIugHIxQCZxfYIqCPXwPu22UYw1E+x00swV1dw4jhazQ==",
+  "success": true,
+  "projectFilePath": "C:\\work-pc-backup\\so\\SmartScreenMessagePopupDialog\\SmartScreenMessagePopupDialog\\SmartScreenMessagePopupDialog.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\system.configuration.configurationmanager\\7.0.0\\system.configuration.configurationmanager.7.0.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\system.security.cryptography.protecteddata\\7.0.0\\system.security.cryptography.protecteddata.7.0.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\system.security.permissions\\7.0.0\\system.security.permissions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\system.windows.extensions\\7.0.0\\system.windows.extensions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

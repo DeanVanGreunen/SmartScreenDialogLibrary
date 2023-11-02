@@ -1,0 +1,17 @@
+C:\work-pc-backup\so\SmartScreenMessagePopupDialog\SmartScreenMessagePopupDialog\bin\Debug\net6.0\SmartScreenMessagePopupDialog.deps.json
+C:\work-pc-backup\so\SmartScreenMessagePopupDialog\SmartScreenMessagePopupDialog\bin\Debug\net6.0\SmartScreenMessagePopupDialog.dll
+C:\work-pc-backup\so\SmartScreenMessagePopupDialog\SmartScreenMessagePopupDialog\bin\Debug\net6.0\SmartScreenMessagePopupDialog.pdb
+C:\work-pc-backup\so\SmartScreenMessagePopupDialog\SmartScreenMessagePopupDialog\bin\Debug\net6.0\System.Windows.Forms.dll
+C:\work-pc-backup\so\SmartScreenMessagePopupDialog\SmartScreenMessagePopupDialog\bin\Debug\net6.0\Accessibility.dll
+C:\work-pc-backup\so\SmartScreenMessagePopupDialog\SmartScreenMessagePopupDialog\bin\Debug\net6.0\System.Deployment.dll
+C:\work-pc-backup\so\SmartScreenMessagePopupDialog\SmartScreenMessagePopupDialog\bin\Debug\net6.0\System.Runtime.Serialization.Formatters.Soap.dll
+C:\work-pc-backup\so\SmartScreenMessagePopupDialog\SmartScreenMessagePopupDialog\obj\Debug\net6.0\SmartScreenMessagePopupDialog.csproj.AssemblyReference.cache
+C:\work-pc-backup\so\SmartScreenMessagePopupDialog\SmartScreenMessagePopupDialog\obj\Debug\net6.0\SmartScreenMessagePopupDialog.GeneratedMSBuildEditorConfig.editorconfig
+C:\work-pc-backup\so\SmartScreenMessagePopupDialog\SmartScreenMessagePopupDialog\obj\Debug\net6.0\SmartScreenMessagePopupDialog.AssemblyInfoInputs.cache
+C:\work-pc-backup\so\SmartScreenMessagePopupDialog\SmartScreenMessagePopupDialog\obj\Debug\net6.0\SmartScreenMessagePopupDialog.AssemblyInfo.cs
+C:\work-pc-backup\so\SmartScreenMessagePopupDialog\SmartScreenMessagePopupDialog\obj\Debug\net6.0\SmartScreenMessagePopupDialog.csproj.CoreCompileInputs.cache
+C:\work-pc-backup\so\SmartScreenMessagePopupDialog\SmartScreenMessagePopupDialog\obj\Debug\net6.0\SmartScreenMessagePopupDialog.csproj.CopyComplete
+C:\work-pc-backup\so\SmartScreenMessagePopupDialog\SmartScreenMessagePopupDialog\obj\Debug\net6.0\SmartScreenMessagePopupDialog.dll
+C:\work-pc-backup\so\SmartScreenMessagePopupDialog\SmartScreenMessagePopupDialog\obj\Debug\net6.0\refint\SmartScreenMessagePopupDialog.dll
+C:\work-pc-backup\so\SmartScreenMessagePopupDialog\SmartScreenMessagePopupDialog\obj\Debug\net6.0\SmartScreenMessagePopupDialog.pdb
+C:\work-pc-backup\so\SmartScreenMessagePopupDialog\SmartScreenMessagePopupDialog\obj\Debug\net6.0\ref\SmartScreenMessagePopupDialog.dll
